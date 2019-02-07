@@ -26,6 +26,7 @@ Allergen.new(will, chocolate)
 # Recipe Ingredients
 RecipeIngredient.new(choco_cake, milk)
 RecipeIngredient.new(choco_cake, eggs)
+RecipeIngredient.new(carrot_cake, milk)
 
 # Recipe Cards
 RecipeCard.new(will, choco_cake, 80)
